@@ -1,67 +1,71 @@
-<svg width="1200" height="270" viewBox="0 0 1200 270"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Card -->
+<svg
+  width="1200"
+  height="250"
+  viewBox="0 0 1200 250"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background card -->
   <rect
     x="1"
     y="1"
     width="1198"
-    height="268"
+    height="248"
     rx="20"
     fill="#191925"
     stroke="#12131b"
     stroke-width="2"
   />
 
-  <!-- Opening quotation mark -->
+  <!-- Opening quote -->
   <text
-    x="42"
-    y="70"
+    x="40"
+    y="72"
     fill="#c792ea"
-    font-family="Arial, sans-serif"
+    font-family="Arial, Helvetica, sans-serif"
     font-size="40"
     font-weight="bold"
-  >“</text>
+  >
+    “
+  </text>
 
   <!-- Quote -->
   <text
-    x="70"
-    y="87"
     fill="#36c2b4"
-    font-family="Arial, sans-serif"
-    font-size="35"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="36"
     font-style="italic"
   >
-    <tspan x="70" dy="0">
-      There is never enough time to do it right, but there is always
+    <tspan x="72" y="90">
+      I'm not a great programmer; I'm just a good programmer
     </tspan>
 
-    <tspan x="70" dy="48">
-      enough time to fix it or to do it over.
+    <tspan x="72" y="140">
+      with great habits.
     </tspan>
   </text>
 
-  <!-- Closing quotation mark -->
+  <!-- Closing quote -->
   <text
-    x="665"
-    y="135"
+    x="410"
+    y="142"
     fill="#c792ea"
-    font-family="Arial, sans-serif"
+    font-family="Arial, Helvetica, sans-serif"
     font-size="40"
     font-weight="bold"
-  >”</text>
+  >
+    ”
+  </text>
 
   <!-- Author -->
   <text
     x="1140"
-    y="215"
+    y="205"
     text-anchor="end"
     fill="#70a5fd"
-    font-family="Arial, sans-serif"
+    font-family="Arial, Helvetica, sans-serif"
     font-size="30"
     font-style="italic"
   >
-    - Daniel T. Barry
+    — Kent Beck
   </text>
-
 </svg>
