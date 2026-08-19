@@ -67,7 +67,11 @@ Web developer who enjoys clean code, creative problem-solving, and building thin
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img
+    src="./dev-quote.svg"
+    alt="I'm not a great programmer; I'm just a good programmer with great habits. — Kent Beck"
+    width="100%"
+  />
 </p>
 
 ---
