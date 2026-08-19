@@ -67,7 +67,7 @@ Web developer who enjoys clean code, creative problem-solving, and building thin
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="./dev-quote.svg" alt="Dev Quote by Daniel T. Barry" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
