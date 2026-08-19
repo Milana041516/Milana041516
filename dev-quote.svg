@@ -1,0 +1,67 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Card -->
+  <rect
+    x="1"
+    y="1"
+    width="1198"
+    height="268"
+    rx="20"
+    fill="#191925"
+    stroke="#12131b"
+    stroke-width="2"
+  />
+
+  <!-- Opening quotation mark -->
+  <text
+    x="42"
+    y="70"
+    fill="#c792ea"
+    font-family="Arial, sans-serif"
+    font-size="40"
+    font-weight="bold"
+  >“</text>
+
+  <!-- Quote -->
+  <text
+    x="70"
+    y="87"
+    fill="#36c2b4"
+    font-family="Arial, sans-serif"
+    font-size="35"
+    font-style="italic"
+  >
+    <tspan x="70" dy="0">
+      There is never enough time to do it right, but there is always
+    </tspan>
+
+    <tspan x="70" dy="48">
+      enough time to fix it or to do it over.
+    </tspan>
+  </text>
+
+  <!-- Closing quotation mark -->
+  <text
+    x="665"
+    y="135"
+    fill="#c792ea"
+    font-family="Arial, sans-serif"
+    font-size="40"
+    font-weight="bold"
+  >”</text>
+
+  <!-- Author -->
+  <text
+    x="1140"
+    y="215"
+    text-anchor="end"
+    fill="#70a5fd"
+    font-family="Arial, sans-serif"
+    font-size="30"
+    font-style="italic"
+  >
+    - Daniel T. Barry
+  </text>
+
+</svg>
